@@ -1,0 +1,28 @@
+{
+  "name": "Tarde do Desenho",
+  "description": "Site corporativo do projeto Tarde do Desenho",
+  "main": "assets/scripts/main.js",
+  "keywords": [
+    "tarde",
+    "do",
+    "desenho",
+    "projeto",
+    "beneficente"
+  ],
+  "authors": [
+    "\"Aleson Polizello\""
+  ],
+  "license": "MIT",
+  "homepage": "ventofilho.byethost7.com/tarde-do-desenho",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.0.3"
+  }
+}
